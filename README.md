@@ -1,0 +1,2 @@
+# ReaperMiner
+A simple miner :)
